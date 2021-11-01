@@ -40,8 +40,8 @@ By using the python script presented in this analysis we we're able to successfu
 We were able to determine the winner of the election and we were even able to identify the county with the largest number of votes along with the percentage 
 of votes each candidate. The script used demonstrates its automation capability to quickly, and accurately, capture the winner of an election, the total number 
 of votes per county, and the county with the largest turnout. We can use this same script with similar datasets for other elections as long as the ballots are
-in a list that include the county where that ballot was recorded and the candidate the ballot counts as a vote for. We could even modify the script to
-include other counties that may have been involved with a specific election using .append within its respective list or dictionary. We may be able to also include
-other variables such as voter or candidate party affiliation. If there are multiple elections with candidates on the same ballot, we may even be able to further
-modify our code similar to how we did to capture county data. We can initialize multiple lists or dictionaries related to those other elections, initialize
+in a list that include the county where that ballot was recorded and the candidate the ballot counts as a vote for. 
+
+We could even modify the script to include other counties that may have been involved with a specific election using .append within its respective list or dictionary. 
+We may be able to also include other variables such as voter or candidate party affiliation. If there are multiple elections with candidates on the same ballot, we may even be able to further modify our code similar to how we did to capture county data. We can initialize multiple lists or dictionaries related to those other elections, initialize
 additional variables, create code to get information for all ballots, and finally make decision statements based on that voting data.
